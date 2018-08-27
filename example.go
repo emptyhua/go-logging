@@ -17,7 +17,7 @@
 package main
 
 import (
-	"github.com/ccding/go-logging/logging"
+	"github.com/emptyhua/go-logging/logging"
 	"time"
 )
 
